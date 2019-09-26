@@ -158,5 +158,20 @@
 			},
 			"file": "./stubs/postulations.json"
 		}
+	},
+	{
+		"request": {
+			"url": "^/public/v1/courses$",
+			"method": "GET"
+		},
+		"response": [
+			{
+				"status": 200,
+				"headers": {
+					"content-type": "application/json"
+				},
+				"file": "./stubs/courses.json"
+			}
+		]
 	}
 ]

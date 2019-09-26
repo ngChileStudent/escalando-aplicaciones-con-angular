@@ -8,5 +8,6 @@ export const environment = {
     users: '/admin/v1/users',
     roles: '/auth-service/v1/roles',
     postulations: '/scholarship/v1/postulations',
+    courses: '/public/v1/courses',
   }
 };

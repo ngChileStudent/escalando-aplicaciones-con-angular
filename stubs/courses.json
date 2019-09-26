@@ -1,0 +1,187 @@
+{
+  "courses": [
+    {
+      "id": "9e17dc515b5f444d6a0bf8150e0546282dc4917f",
+      "name": "Escalando Aplicaciones con Angular",
+      "path": "escalando-aplicaciones-con-angular",
+      "coverKey": "angular",
+      "landingInfo": {
+        "banner": "Escalando Aplicaciones con Angular",
+        "sessions": "6 sesiones de 4hrs",
+        "venue": "Santiago de Chile",
+        "price": "$200.000",
+        "currency": "CLP",
+        "contact": {
+          "title": "contacto@boolean.cl",
+          "mailto": "contacto@boolean.cl",
+          "subject": "Hola"
+        },
+        "links": {
+          "planification": {
+            "url": "https://s3-sa-east-1.amazonaws.com/boolean.cl/programa_curso_intensivo_angular.pdf"
+          },
+          "enrollment": {
+            "url": "https://www.flow.cl/btn.php?token=12lbp5o"
+          }
+        }
+      },
+      "itineraryInfo": [
+        {
+          "id": "b4298ad4d7ec03a61cb33332bb290be495234744",
+          "title": "Día 1",
+          "description": "Fundamentos del Framework",
+          "details": [
+            "Introducción al proyecto de curso.",
+            "Conocer proceso de Integración continua.",
+            "Typescript y Angular CLI.",
+            "Módulos, Componentes y su ciclo de vida.",
+            "Inyección de dependencias."
+          ]
+        },
+        {
+          "id": "a5f54b7a9e7f857b708c145d6ba5de152ab0cf40",
+          "title": "Día 2",
+          "description": "Servicios y Pruebas unitarias",
+          "details": [
+            "Que son los Servicios y como crearlos.",
+            "Pruebas de software: Teoría Básica.",
+            "Realizando pruebas unitarias a un Servicio.",
+            "¿Cómo seguir la metodología de Software guiado por pruebas?"
+          ]
+        },
+        {
+          "id": "d37ae7f3387c9d9849fabe8b7f9b330113142064",
+          "title": "Día 3",
+          "description": "Aseguramiento de calidad y Caracterización de un software",
+          "details": [
+            "Pruebas funcionales.",
+            "Aplicando la teoría a las pruebas funcionales.",
+            "Una experiencia de Automatización con Cypress y Cucumber.",
+            "Estrategias para el aseguramiento de calidad con las pruebas funcionales."
+          ]
+        },
+        {
+          "id": "1ac7ec4a84a2bb158ed073b3691e70f31b005253",
+          "title": "Día 4",
+          "description": "Trabajando con rutas y componentes",
+          "details": [
+            "Creación y niveles de acceso de rutas utilizando Guards.",
+            "Rutas anidadas y resolución de datos antes de activar una ruta.",
+            "Agregando estilos a los componentes utilizando SASS."
+          ]
+        },
+        {
+          "id": "714bed04dbb6aa6bf2c93d47563f0ed6d3927e86",
+          "title": "Día 5",
+          "description": "Manejo de flujo de datos",
+          "details": [
+            "Utilizando Observables a través del servicio HttpClient.",
+            "Entendiendo la Programación reactiva",
+            "Aplicando operadores en formularios reactivos."
+          ]
+        },
+        {
+          "id": "2a8edcd0fe94576b4bdf4731786f7b0c072c5f32",
+          "title": "Día 6",
+          "description": "Aplicando todo lo aprendido",
+          "details": [
+            "Abordar una funcionalidad describiendo su comportamiento con pruebas funcionales.",
+            "Construir código de calidad utilizando pruebas unitarias.",
+            "Procesando datos a través de formularios reactivos aplicando operadores.",
+            "Asignación de proyecto final a equipos."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2f87d546432f28cc4348492fa93c0de7b449a6ac",
+      "name": "Javascript para la Ingeniería Frontend",
+      "path": "ingieneria-javascript-frontend",
+      "coverKey": "javascript",
+      "landingInfo": {
+        "banner": "Javascript para la Ingeniería Frontend",
+        "sessions": "Sábados 9am a 13 pm. 6 sesiones de 4hrs",
+        "venue": "Santiago de Chile",
+        "price": "$200.000",
+        "currency": "CLP",
+        "contact": {
+          "title": "contacto@boolean.cl",
+          "mailto": "contacto@boolean.cl",
+          "subject": "Hola"
+        },
+        "links": {
+          "planification": {
+            "url": "https://s3-sa-east-1.amazonaws.com/boolean.cl/programa_curso_javascript_frontend.pdf"
+          },
+          "enrollment": {
+            "url": "https://www.flow.cl/btn.php?token=12lbp5o"
+          }
+        }
+      },
+      "itineraryInfo": [
+        {
+          "id": "93d38c1d9af6ec3033fe10af99c4ba2f0eb193a2",
+          "title": "Día 1",
+          "description": "Fundamentos de Javascript",
+          "details": [
+            "Operadores de asignación, precedencia y operadores, tipos de datos, niveles de acceso.",
+            "La importancia de las funciones.",
+            "Ambito léxico y Closures.",
+            "El estándar Ecmascript."
+          ]
+        },
+        {
+          "id": "2f87d546432f28cc4348492fa93c0de7b449a6ac",
+          "title": "Día 2",
+          "description": "Más sobre los fundamentos",
+          "details": [
+            "Arreglos: Ciclos funcionales vs Ciclos void y enfoques de programación.",
+            "Callbacks",
+            "Javascript NO es asíncrono: ¿Qué es el call stack, el call Queue y el motor v8?."
+          ]
+        },
+        {
+          "id": "eac9cfdf292e5a13541686dc2cdbb867f1b75536",
+          "title": "Día 3",
+          "description": "Taller práctico: Aplicando la Teoría contra pruebas unitarias",
+          "details": [
+            "Desarrollar ejercicios contra una base de pruebas.",
+            "Fundamentos de la programación Funcional.",
+            "Fundamentos de la programación Basada en Objetos.",
+            "Resolución de ejercicios usando programación funcional vs orientada a objetos."
+          ]
+        },
+        {
+          "id": "f14e19388de6f3b8cd53bb3c50de9de9ed563246",
+          "title": "Día 4",
+          "description": "Web APIS y más teoría de Javascript",
+          "details": [
+            "DOM.",
+            "LocalStorage, SessionStorage, Cookies y Service Workers.",
+            "Compatibilidad entre navegadores.",
+            "Herramientas "
+          ]
+        },
+        {
+          "id": "2f87d546432f28cc4348492fa93c0de7b449a6ac",
+          "title": "Día 5",
+          "description": "Trabajando con DOM y HTML",
+          "details": [
+            "Aplicar lo aprendido para implementar un requerimiento que involucra interacción de un usuario."
+          ]
+        },
+        {
+          "id": "5a769ed479147f901d0f630eda770e9833a741bd",
+          "title": "Día 6",
+          "description": "Optimización y aplicación de conceptos con un Trabajo Final",
+          "details": [
+            "¿Cuando Optimizar?.",
+            "Tips para mejorar el rendimiento.",
+            "Herramientas para medir y cómo medir.",
+            "Diferencias entre entornos para Frontend y el papel de Node.js"
+          ]
+        }
+      ]
+    }
+  ]
+}

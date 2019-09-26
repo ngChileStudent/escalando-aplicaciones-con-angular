@@ -12,6 +12,7 @@ export const environment = {
     users: 'http://localhost:8882/admin/v1/users',
     roles: 'http://localhost:8882/auth-service/v1/roles',
     postulations: 'http://localhost:8882/scholarship/v1/postulations',
+    courses: 'http://localhost:8882/public/v1/courses',
   }
 };
 

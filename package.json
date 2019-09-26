@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng run web-app:serve-with-stubs",
-    "test": "ng test --watch --coverage",
+    "test": "ng test --watch --coverage --verbose",
     "inspect-coverage": "ng test --coverage && http-server coverage",
     "e2e": "ng e2e",
     "lint": "ng lint",
